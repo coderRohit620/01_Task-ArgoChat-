@@ -6,7 +6,7 @@ Basic Login System using Flask
     Demonstrates form handling, flash messages, and route redirection.
 
 🗂️ Project Structure
-    app.py
+    app.py 
     login.html
 
 ⚙️ Setup
@@ -23,6 +23,7 @@ Basic Login System using Flask
   Dummy credentials: USERNAME = "admin", PASSWORD = "1234"
   Flash messages for success or error
   Uses Post/Redirect/Get pattern
+
 
 
 
